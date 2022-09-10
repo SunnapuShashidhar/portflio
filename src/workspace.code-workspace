@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\.vscode\\extensions\\Flask"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {}
+}

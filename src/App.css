@@ -1,0 +1,18 @@
+.scroolbar::-webkit-scrollbar {
+  display: none;
+}
+
+.markdown img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+div.crd {
+  border-radius: 25px;
+  /* background-image: url("./assets/sunset-gradient-background.png");
+  background-position: fixed;
+  background-size: cover; */
+}
+
+div.card-title {}
