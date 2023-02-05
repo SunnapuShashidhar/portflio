@@ -28,7 +28,7 @@ function Navbar(props) {
               Home
             </Link>
             <a className="nav-item nav-link text-dark h6 mx-3" href="Resuma.pdf" download="Resuma.pdf">
-              Resuma
+              Resume
             </a>
             {/* <Link to="/resume" className="nav-item nav-link text-dark h6 mx-3">
               Resuma
